@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="Catalog.Справочник1" id="b2d82c01-7b68-4f4a-8c1f-5f8a63ea9547" configVersion="772f6480de9e384b87287bf6cbcc5ecc00000000"/>
+		<Metadata name="Catalog.Справочник1.Predefined" id="b2d82c01-7b68-4f4a-8c1f-5f8a63ea9547.1c" configVersion="1c83392f09a24044aebd65ed0c872e1500000000"/>
+		<Metadata name="CommonForm.ЭлементыИнтерфейса" id="9fccb2cf-af62-4b00-969f-cd975fb6833a" configVersion="25d8615b48090947b7f47c74d20a59ea00000000"/>
+		<Metadata name="CommonForm.ЭлементыИнтерфейса.Form" id="9fccb2cf-af62-4b00-969f-cd975fb6833a.0" configVersion="d8be05a2846a55499ad662fc85f93a3d00000000"/>
+		<Metadata name="Configuration.ЭлементыИнтерфейса" id="86b15af3-192b-4174-b5c2-bc327916c669" configVersion="b7eb71968872a64a9ec54c5a60a3d5dd00000000"/>
+		<Metadata name="Configuration.ЭлементыИнтерфейса.HomePageWorkArea" id="d7dcd4dd-d141-4e18-9770-88d33a2b042e.8" configVersion="a9bf903b5539004cad2e0d0eb50ad2ea00000000"/>
+		<Metadata name="Configuration.ЭлементыИнтерфейса.Logo" id="d7dcd4dd-d141-4e18-9770-88d33a2b042e.1" configVersion="a5d6f44e0f2d1145900369d583ece39700000000"/>
+		<Metadata name="Configuration.ЭлементыИнтерфейса.Splash" id="d7dcd4dd-d141-4e18-9770-88d33a2b042e.2" configVersion="f72d0e1a79e9ad4c9da9fa35f0ee147300000000"/>
+		<Metadata name="Language.Русский" id="59c4536c-bc3f-4a6a-b641-7ff3772a6d3c" configVersion="de6b432d1587a348ac5a2571ccf1bba900000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
